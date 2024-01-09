@@ -1,0 +1,15 @@
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\stringMethods\bin\Debug\net7.0\stringMethods.exe
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\stringMethods\bin\Debug\net7.0\stringMethods.deps.json
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\stringMethods\bin\Debug\net7.0\stringMethods.runtimeconfig.json
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\stringMethods\bin\Debug\net7.0\stringMethods.dll
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\stringMethods\bin\Debug\net7.0\stringMethods.pdb
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\stringMethods\obj\Debug\net7.0\stringMethods.csproj.AssemblyReference.cache
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\stringMethods\obj\Debug\net7.0\stringMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\stringMethods\obj\Debug\net7.0\stringMethods.AssemblyInfoInputs.cache
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\stringMethods\obj\Debug\net7.0\stringMethods.AssemblyInfo.cs
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\stringMethods\obj\Debug\net7.0\stringMethods.csproj.CoreCompileInputs.cache
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\stringMethods\obj\Debug\net7.0\stringMethods.dll
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\stringMethods\obj\Debug\net7.0\refint\stringMethods.dll
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\stringMethods\obj\Debug\net7.0\stringMethods.pdb
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\stringMethods\obj\Debug\net7.0\stringMethods.genruntimeconfig.cache
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\stringMethods\obj\Debug\net7.0\ref\stringMethods.dll
